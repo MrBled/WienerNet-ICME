@@ -19,7 +19,8 @@ Ground-truth\
 Noisy 22.60 dB\
 ![](samples_sig20/NOISY_00000010mar.png)\
 Denoised 34.03 dB\
-![](samples_sig20/00000010_denoisemar.png)\
+![](samples_sig20/00000010_denoisemar.png)
+
 
 ## WienerNet Denoised Samples at sigma=40
 ![](samples_sig40/GT_00000010.png)\
@@ -30,4 +31,6 @@ Denoised 34.03 dB\
 ![](samples_sig40/00000010_denoiseham.png)\
 ![](samples_sig40/GT_00000010mar.png)\
 ![](samples_sig40/NOISY_00000010mar.png)\
-![](samples_sig40/00000010_denoisemar.png)\
+![](samples_sig40/00000010_denoisemar.png)
+
+![](ham_20_crf10.mp4)
