@@ -1,5 +1,12 @@
 # Anonymous ICME 2024 WienerNet Suppl. Mat.
-Here we present denoised image sequences as well as the single frames shown below.
+Here we present denoised image sequences as well as single frames examples. 
+
+## Compressed video examples.
+For uncompressed videos, please download them here.
+
+
+https://github.com/MrBled/WienerNet-ICME/assets/61942418/9916024d-20e3-46db-bc2c-d42ce3311644
+
 
 ## WienerNet Denoised Frame Samples at sigma=20
 Ground-truth\
@@ -33,4 +40,3 @@ Denoised 34.03 dB\
 ![](samples_sig40/NOISY_00000010mar.png)\
 ![](samples_sig40/00000010_denoisemar.png)
 
-![](ham_20_crf10.mp4)
