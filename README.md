@@ -2,11 +2,10 @@
 Here we present denoised image sequences as well as single frames examples.
 
 ## Compressed video examples.
-For uncompressed videos, please download them here.
-![](ham_20_crf20.mp4)
+For uncompressed videos, please download them here:
 
-
-https://github.com/MrBled/WienerNet-ICME/assets/61942418/418abb89-f91a-4db7-959a-eb895bf31920
+[Noise STD = 20](https://onedrive.live.com/?id=BD1CE23305F38E12%211041&cid=BD1CE23305F38E12)
+Noist STD = 40
 
 ## WienerNet Denoised Frame Samples at sigma=20
 Ground-truth\
