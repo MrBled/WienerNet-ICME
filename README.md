@@ -12,8 +12,8 @@ We present three scenes for each noise level. Each scene contains the following 
 
 ### Video Links
 [MP4 Sequences: NOISE STD = 20 (Anonymous MS Sharepoint)](https://1drv.ms/f/s!AhKO8wUz4hy9iBGgcWsWB9JllTYs?e=USQnCp)\
-[MP4 Sequences: NOISE STD = 40 (Anonymous MS Sharepoint)](https://1drv.ms/f/s!AhKO8wUz4hy9iBUXaBORpTL4K_FI?e=jGXHfm)
-
+[MP4 Sequences: NOISE STD = 40 (Anonymous MS Sharepoint)](https://1drv.ms/f/s!AhKO8wUz4hy9iBUXaBORpTL4K_FI?e=jGXHfm)\
+**Note:** Please download and view the sequences in full quality outside of sharepoint.
 # Single-Frame Examples
 Uncompressed, single frame examples at Gaussian noise levels of STD=20 and STD=40. All examples have been denoised using WienerNet Blind.
 ## WienerNet Denoised Frame Samples at sigma=20
