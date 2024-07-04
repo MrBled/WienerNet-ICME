@@ -1,4 +1,4 @@
-# Anonymous ICME 2024 WienerNet Suppl. Mat.
+# ICME 2024 WienerNet Suppl. Mat.
 Here we present denoised image sequences as well as single frames examples.
 
 ## Denoised Videos.
